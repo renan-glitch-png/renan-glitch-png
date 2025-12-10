@@ -1,4 +1,5 @@
-## Hi there 👋
+## Ola!👋 Meu nome é Renan e sou estudante de ciencias da computação pela Universidade do Ceára.
+## Meu foco de estudo é redes e API's. 🌱
 
 <!--
 **renan-glitch-png/renan-glitch-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
